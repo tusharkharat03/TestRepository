@@ -33,7 +33,7 @@ public class RestAssuredClient {
 			
 			
 			XmltoPojo readValue2 = o.readValue(new File("C:\\imp_document\\data.json"), XmltoPojo.class);
-			System.out.println("----------------------xl read :"+readValue2.getNote().getTo());
+			System.out.println("-----------asdasdasdgrtyiol-----------xl read :"+readValue2.getNote().getTo());
 			
 			
 			
